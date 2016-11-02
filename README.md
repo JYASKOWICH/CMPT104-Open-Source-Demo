@@ -10,7 +10,7 @@
 
 5.  Press the “Download ZIP” button
 
-![](DLButton.png)
+  ![](DLButton.png)
 
 6.  Open your files and un-zip the .zip archive
 
@@ -32,12 +32,12 @@
 
 3.  Add “`<script src=“./cssnge.js"></script>`” to this line:
 
-![](Line.png)
+  ![](Line.png)
 
 4.  Add “`<li><a onclick='toggleCSS("./main.css", "./alt.css")'<Toggle CSS</a<</li<`” to this line:
 
-![](Line2.png)
+  ![](Line2.png)
 
 5.  Open index.html in a browser. The page should look something like this (try clicking the "Change CSS" button):
 
-![](Web.png)
+  ![](Web.png)
