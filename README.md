@@ -34,7 +34,7 @@
 
   ![](Line.png)
 
-4.  Add “`<li><a onclick='toggleCSS("./main.css", "./alt.css")'<Toggle CSS</a<</li<`” to this line:
+4.  Add “`<li><a onclick='toggleCSS("./main.css", "./alt.css")'>Toggle CSS</a></li>`” to this line:
 
   ![](Line2.png)
 
