@@ -32,12 +32,12 @@
 
 5.  Add “`<script src=“./cssnge.js"></script>`” to this line:
 
-![](line.png)
+![](Line.png)
 
 10.  Add “`<li><a onclick='toggleCSS("./main.css", "./alt.css")'<Toggle CSS</a<</li<`” to this line:
 
-![](line2.png)
+![](Line2.png)
 
 15.  Open index.html in a browser. The page should look something like this (try clicking the "Change CSS" button):
 
-![](web.png)
+![](Web.png)
